@@ -1,4 +1,4 @@
-const luas = require('./luas')
+const luas = require('./latihan_lanjutan_2_luas')
 
 let hasilPersegi = luas.luasPersegi(4)
 let hasilPersegiPanjang = luas.luasPersegiPanjang(5,3)
